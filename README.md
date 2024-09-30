@@ -50,7 +50,17 @@ plt.show()
 
 ```
 ## Output:
-![Screenshot 2024-08-29 104452](https://github.com/user-attachments/assets/997b7a79-42d6-4e4b-97ba-3321b7d3058d)
+# input values are
+![Screenshot 2024-09-30 085551](https://github.com/user-attachments/assets/8dea49a0-e663-4fc8-ab43-4fdbeea2a799)
+# slope:
+![Screenshot 2024-09-30 085609](https://github.com/user-attachments/assets/03d0351c-f044-4c74-8ac3-82b1a80121cc)
+# y_intercept:
+![Screenshot 2024-09-30 085630](https://github.com/user-attachments/assets/65c95efc-9c76-4cf4-8092-0a4c8a595b05)
+
+
+# y_predict:
+![Screenshot 2024-09-30 085701](https://github.com/user-attachments/assets/b9f38855-3f4d-48fc-9a7f-d3fac6508436)
+
 
 
 
